@@ -2,7 +2,7 @@
   "name": "ai-image-gen",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "start": "node index",
     "dev": "nodemon index"
